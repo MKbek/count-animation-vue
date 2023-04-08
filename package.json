@@ -1,6 +1,6 @@
 {
   "name": "count-animation-vue",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Animation numbers count for VueJS",
   "main": "dist/count-animation.common.js",
   "module": "dist/count-animation.umd.min.js",

@@ -47,6 +47,8 @@ In this example, the AnimatedNumber component will animate the number from 10 to
 | duration | Number | 500     | The animation duration in milliseconds |
 
 
-Contributing If you want to contribute to the Animated Number Library, you can submit pull requests or issues on our GitHub repository: https://github.com/mkbek/count-animation-vue.
+### Contributing
+
+If you want to contribute to the animated numbers library, you can sponsor via links in the specified GitHub repository: https://github.com/mkbek/count-animation-vue.
 
 License The Animated Number Library is licensed under the [MIT License](./LICENSE).
